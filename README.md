@@ -1,0 +1,2 @@
+# StrategyG
+All related material 
